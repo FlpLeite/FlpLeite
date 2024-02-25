@@ -4,9 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlpLeite&show_icons=true&theme=tokyonight)
 
-## Cursando Análise e Desenvolvimento de sistemas (1/6) na Universidade de Marília
+## Cursando Análise e Desenvolvimento de sistemas (3/6) na Universidade de Marília
                                                 Felipe de Oliveira Garcia Leite 
-                                        Rua Santa Helena, 759. Marília, São Paulo 17513-322 
                                                   felipe_o_leite@hotmail.com
 ## Objetivo 
 Adquirir experiência profissional, conhecendo o mercado de trabalho e aprimorando 
