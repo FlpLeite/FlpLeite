@@ -5,31 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlpLeite&show_icons=true&theme=tokyonight)
 
 ## Cursando Análise e Desenvolvimento de sistemas (3/6) na Universidade de Marília
-                                                Felipe de Oliveira Garcia Leite 
                                                   felipe_o_leite@hotmail.com
-## Objetivo 
-Adquirir experiência profissional, conhecendo o mercado de trabalho e aprimorando 
-habilidades pessoais.
-## Formação Acadêmica
-Ensino médio completo – 2021 - Colégio Interação Marília. 
-Curso técnico em Mecânica de Usinagem – SENAI “José Polizotto”, Marília - São Paulo –
-2021.
-Graduação em Análise e Desenvolvimento de Sistemas – Universidade de Marília 
-(Unimar) – 2023/Em andamento.
-## Formação Complementar
-Curso de curta duração em Finanças Pessoais. (2020 – carga horária: 14h). Serviço 
-Nacional de Aprendizagem Industrial, Senai, Brasil.
-Curso de curta duração em Desvendando a Blockchain. (2021 – carga horária 20h). 
-Serviço Nacional de Aprendizagem Industrial, Senai, Brasil.
-Curso de curta duração em Indústria 4.0 (2021 – carga horária 20h). Serviço Nacional 
-de Aprendizagem industrial, Senai, Brasil. Curso de curta duração em Privacidade em 
-Proteção de Dados (2021- carga horária 4h). Serviço Nacional de Aprendizagem 
-Industrial, Senai, Brasil.
-## Experiência Profissional
-Menor aprendiz pela empresa SASAZAKI - (20 de janeiro de 2020 à 20 de dezembro de 
-2021). 
-Menor aprendiz na área de metal mecânica, integrado com a instituição SENAI, José 
-Polizotto - Marília-SP. 
 ## Habilidades
 · Boa comunicação; 
 
