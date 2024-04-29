@@ -6,23 +6,3 @@
 
 ## Cursando Análise e Desenvolvimento de sistemas (3/6) na Universidade de Marília
                                                   felipe_o_leite@hotmail.com
-## Habilidades
-· Boa comunicação; 
-
-· Agilidade e fácil aprendizado; 
-
-· Organização; 
-
-· Resiliência;
-
-· Proatividade; 
-
-· Facilidade em lidar com tecnologias; 
-
-· Flexibilidade; 
-
-· Comprometimento;
-
-
-
-
