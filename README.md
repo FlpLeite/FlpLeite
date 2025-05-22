@@ -5,5 +5,5 @@
   <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flpleite&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
 </div>
 
-## Cursando Análise e Desenvolvimento de sistemas (4/6) na Universidade de Marília
+## Cursando Análise e Desenvolvimento de sistemas (5/6) na Universidade de Marília
                                                   felipe_o_leite@hotmail.com
