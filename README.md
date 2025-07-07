@@ -4,9 +4,9 @@
   <a href="https://www.linkedin.com/in/felipe-leite-282aa5252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
-  <div>
+<!--   <div>
     <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlpLeite&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
-  </div>
+  </div> -->
   <h3>Github Stats</h3>
 
   <!-- Profile Summary and Streak -->
