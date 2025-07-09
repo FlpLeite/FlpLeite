@@ -15,7 +15,7 @@
   </div>
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
-    <img src="https://streak-stats.demolab.com?user=FlpLeite&theme=tokyonight&hide_border=true" width="680px" />
+    <img src="https://streak-stats.demolab.com?user=FlpLeite&theme=tokyonight&hide_border=true&mode=weekly" width="680px" />
   </div>
 
   <!-- Language Stats -->
